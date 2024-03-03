@@ -1,0 +1,13 @@
+openai
+langchain
+langchain-openai
+llama-index
+llama-index-llms-openai-like 
+docx2txt
+transformers
+sentence-transformers
+torch   
+faiss-cpu
+#faiss-gpu
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
